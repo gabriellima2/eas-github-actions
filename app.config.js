@@ -1,5 +1,3 @@
-import "dotenv/config";
-
 export default {
   "expo": {
     "name": "eas-github-actions",
